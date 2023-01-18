@@ -85,5 +85,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Spring Batch Remote Chunk with Spring Integration with kafka Broker](https://dev.to/diags/spring-batch-remote-chunk-with-spring-integration-with-kafka-broker-2njj)
+- [Spring Batch Remote Chunking with Spring Integration And kafka Broker](https://dev.to/diags/spring-batch-remote-chunk-with-spring-integration-with-kafka-broker-2njj)
 <!-- BLOG-POST-LIST:END -->
