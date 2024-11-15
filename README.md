@@ -85,5 +85,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Building Reactive Applications with Hexagonal Architecture in Spring Boot](https://dev.to/diags/building-reactive-applications-with-hexagonal-architecture-in-spring-boot-e9m)
 - [Spring Batch Remote Chunking with Spring Integration And kafka Broker](https://dev.to/diags/spring-batch-remote-chunk-with-spring-integration-with-kafka-broker-2njj)
 <!-- BLOG-POST-LIST:END -->
